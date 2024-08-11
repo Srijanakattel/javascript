@@ -1,0 +1,58 @@
+#header{
+    background-color: #07074f;
+    color:white;
+    text-align: center;
+}
+nav{
+    background-color: rgb(9, 9, 66);
+    padding:18px,20px;
+    text-align: center;
+
+    
+}
+nav a{
+    color:white;
+    text-decoration: none;
+     margin:20px;
+
+}
+nav a:hover{
+    background-color: blue;
+}
+#heading{
+    color:rgb(39, 6, 70);
+
+}
+p{
+    color:rgb(39, 6, 70);   
+}
+button{
+    background-color: blue;
+    color:white;
+}
+.head{
+    background-color: beige;
+    color:blueviolet;
+}
+#button{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    color:black;
+    border:1px solid black;
+}
+#button1{
+    height:100px;
+    width:100px;
+    background-color: aqua;
+    color:black;
+    border:1px solid black;
+}
+ .dark{/*this is change with javascript included for dark mode*/
+    background-color: black;
+    color:white;
+}
+.light{/*this is change with javascript included for light mode */
+    background-color:white;
+    color:black;
+}
